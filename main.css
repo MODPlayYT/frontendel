@@ -28,21 +28,24 @@ body {
     max-width: 320px;
     margin-bottom: 10px;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
     text-align: center;
 
 }
 .qr-code {
     width: 100%;
+    border-radius: 12px;
 }
 
 .qr-head {
     font-size: 24px;
+    font-weight: 700;
     margin: 28px 0 0 0;
 
 }
 .qr-text {
     font-size: 18px;
+    font-weight: 400;
     margin: 19px 0 0 0;
 }
